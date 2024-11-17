@@ -26,4 +26,5 @@ CNN architecture: model = keras.models.Sequential([
 ## image size : 50 X 50
 ## BATCH =_SIZE : 150
 ## NO. of epochs : 25
+### Test accuracy - 75%
 
